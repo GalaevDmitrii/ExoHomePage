@@ -1,0 +1,108 @@
+#bloc_page {
+
+    display: inline-block;
+    background-color: lightgreen;
+    height: 750px;
+    width: 100%;
+
+
+}
+
+header {
+    display: flex;
+    align-items: flex-end;
+    height: 200px;
+    width: 98%;
+
+    background-color: lightgrey;
+    justify-content: space-between;
+    margin: 10px 10px 10px 10px;
+
+
+
+}
+
+#titre_principal {
+
+    height: 80%;
+    width: 10%;
+    background-color: darkgrey;
+    margin: 10px 10px 10px 10px;
+
+}
+
+nav {
+    display: flex;
+
+    background-color: coral;
+    height: 40px;
+    width: 300px;
+    margin: 10px 10px 10px 10px;
+
+
+}
+
+#banniere_image {
+    height: 15%;
+    width: 98%;
+
+    background-color: lightblue;
+    margin: 10px 10px 10px 10px;
+}
+
+section {
+    display: flex;
+    justify-content: space-between;
+    background-color: yellow;
+    width: 98%;
+    height: 35%;
+    margin: 10px 10px 10px 10px;
+}
+
+article {
+    background-color: orange;
+    width: 55%;
+    height: 90%;
+    margin: 10px 10px 10px 10px;
+}
+
+aside {
+    background-color: green;
+    width: 40%;
+    height: 70%;
+    margin: 10px 10px 10px 10px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    background-color: darkgreen;
+    height: 15%;
+    width: 98%;
+    margin: 10px 10px 10px 10px;
+
+
+}
+
+#tweet {
+    background-color: lightblue;
+    height: 80%;
+    width: 30%;
+    margin: 10px 10px 10px 10px;
+
+}
+
+#mes_photos {
+    background-color: orange;
+    height: 80%;
+    width: 30%;
+    margin: 10px 10px 10px 10px;
+
+}
+
+#mes_amis {
+    background-color: grey;
+    height: 80%;
+    width: 30%;
+    margin: 10px 10px 10px 10px;
+}
